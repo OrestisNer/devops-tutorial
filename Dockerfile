@@ -2,7 +2,7 @@
 FROM node
 
 # set maintainer
-LABEL maintainer "miiro@getintodevops.com"
+LABEL maintainer "orestis.ner@gmail.com"
 
 # set a health check
 HEALTHCHECK --interval=5s \
